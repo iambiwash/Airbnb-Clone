@@ -57,6 +57,8 @@ struct ListingItemView: View {
            
         }
         //.padding() This is a child view. You don't have to use this if you used in parent-ExploreView
+
+        //This is test Text. Delete later.
     }
 }
 
